@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My skill update</title>
+    <meta charset="UTF-8">
+    <meta name="description" content="Halaman web sederhana">
+    <meta name="keywords" content="website, sederhana, belajar">
+    <meta name="author" content="Michael Platini">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="favicon.ico">
+</head>
+<body>
+    <h1>Hari pertama mempelajari cara membuat website</h1>
+    <p>Pada hari ini website saya masih sangat sederhana, hanya berisikan struktur dan dasar² awal pembuatan website, tentunya nanti akan terus berkembang menjadi lebih banyak, keren, dan berwarna.</p>
+</body>
+</html>
